@@ -1,16 +1,37 @@
-# Simple Calculator 🧮
+# 🧮 Simple Calculator – Python
 
-A basic calculator application that performs arithmetic operations like addition, subtraction, multiplication, and division. Built to demonstrate GUI development and fundamental programming concepts.
+A simple command-line calculator built using Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project is beginner-friendly and helps in understanding core Python concepts like functions, conditionals, and user input handling.
 
-## Features
+---
 
-- Addition, subtraction, multiplication, and division
-- User-friendly interface
-- Lightweight and easy to use
-- Works offline
+## 🚀 Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User-friendly command-line interface
+- Modular code using functions
 
-## Tech Stack
+---
 
-- Programming Language: Python / JavaScript (update based on your implementation)
-- GUI Library: Tkinter (for Python) or HTML/CSS/JS (for Web)
-- No external dependencies required
+## 🛠️ Tech Stack
+- **Programming Language:** Python  
+- **Interface:** Command Line Interface (CLI)  
+- **Concepts Used:**  
+  - Functions  
+  - Conditional Statements  
+  - User Input Handling  
+
+---
+📸 Sample Output
+
+Select operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+Enter choice: 1
+Enter first number: 10
+Enter second number: 5
+Result: 15
