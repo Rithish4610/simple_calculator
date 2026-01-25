@@ -32,6 +32,6 @@ Select operation:
 4. Divide
 
 Enter choice: 1
-Enter first number: 10
+Enter first number: 6
 Enter second number: 5
-Result: 15
+Result: 11
